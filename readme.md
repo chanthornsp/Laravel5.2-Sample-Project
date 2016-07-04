@@ -10,7 +10,7 @@ Reference at [Laravel.com](http://laravel.com).
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
-* Create a database and inform *.env*
+* Create a database and config *.env*
 * Goto */register* to register new user
 * Before you can create Article Create Category First */category/create*
 * */article/create* to create article

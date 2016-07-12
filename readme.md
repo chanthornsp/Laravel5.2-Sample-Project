@@ -11,6 +11,7 @@ Reference at [Laravel.com](http://laravel.com).
 * `composer install`
 * `php artisan key:generate`
 * Create a database and config *.env*
+* run `php artisan migrate` to generate database
 * Goto */register* to register new user
 * Before you can create Article Create Category First */category/create*
 * */article/create* to create article
